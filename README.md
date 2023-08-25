@@ -31,7 +31,7 @@ The default location for the CS:GO cfg folder is:
 ```C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg```
 
 3. Open Steam and right click on CS:GO. Select "Properties".
-4. In the "General" tab, set launch options is on the bottom. 
+4. In the "General" tab, set launch options is on the bottom.
 5. Add the following to the launch options:
 
 ```-novid -nojoy -forcenovsync +exec autoexec.cfg```
