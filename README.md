@@ -1,6 +1,6 @@
 # Counter Strike Autoexec Generator
 
-## This library is a simple autoexec generator for Counter Strike.
+## This library is a simple autoexec generator for Counter Strike
 
 Putting these files in your CS:GO cfg folder will allow you to generate an autoexec.cfg file with the settings you want.
 </br>
